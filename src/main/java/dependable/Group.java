@@ -8,6 +8,6 @@ import java.util.List;
 @Getter
 @Setter
 public class Group {
-  List<Player> player;
+  List<Player> players;
   Player ballHolder;
 }
