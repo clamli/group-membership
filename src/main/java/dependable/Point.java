@@ -7,8 +7,8 @@ import lombok.Setter;
 @Setter
 public class Point {
 
-    private double x;
-    private double y;
+  private double x;
+  private double y;
 
 
 }

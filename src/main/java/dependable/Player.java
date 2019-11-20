@@ -10,24 +10,24 @@ import java.util.List;
 @Setter
 public class Player {
 
-    // save the position of a player
-    private Point point;
+  // save the position of a player
+  private Point point;
 
-    public Group formGroup(List<Player> players) {
+  public Group formGroup(List<Player> players) {
 
-    }
+  }
 
-    public boolean check(Group group) {
+  public boolean check(Group group) {
 
-    }
+  }
 
-    public Player passBall(Group group) {
+  public Player passBall(Group group) {
 
-    }
+  }
 
-    public void move() {
+  public void move() {
 
-    }
+  }
 
 
 }
