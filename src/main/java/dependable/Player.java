@@ -21,8 +21,13 @@ public class Player {
 
     }
 
-    
+    public Player passBall(Group group) {
 
+    }
+
+    public void move() {
+
+    }
 
 
 }
